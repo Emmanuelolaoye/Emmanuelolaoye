@@ -4,14 +4,14 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Y5eW1mdWNuaHRxcW5vbnNjNnhueTQ3cmJwajVzcno4b2V2MHFiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-eolaoye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eolaoye)](https://www.linkedin.com/in/eolaoye) 
 [![Gmail Badge](https://img.shields.io/badge/-emmanuelolaoye44@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmanuelolaoye44@gmail.com)](mailto:emmanuelolaoye44@gmail.com) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Emmanuelolaoye" alt="MarikIshtar007" /> </p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right">Why do programmers prefer dark mode? Because light attracts bugs..... </div>
 
 ## :computer: Technologies I Love Working on
 * Financial Technology
@@ -50,7 +50,7 @@
 			]
 	
 	def getCity():
-		if location = 'UK'
+		if atUniversity:
 			return Colchester_Uk()
 
 		else:
