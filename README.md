@@ -6,11 +6,10 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) 
-[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) 
-[![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+[![Linkedin Badge](https://img.shields.io/badge/-eolaoye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eolaoye)](https://www.linkedin.com/in/eolaoye) 
+[![Gmail Badge](https://img.shields.io/badge/-emmanuelolaoye44@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmanuelolaoye44@gmail.com)](mailto:emmanuelolaoye44@gmail.com) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Emmanuelolaoye" alt="MarikIshtar007" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
@@ -61,12 +60,12 @@
  ```
  
 ## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * Breaking into Back-end Development !!
+ * I'm currently working on 🔭 building ** real time Train Booking Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * solving 100 leetcode peoblems
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+  - :octocat: [My Resume](https://rb.gy/0jpxc1)
 
 ![Manny's github stats](https://github-readme-stats.vercel.app/api?username=EmmanuelOlaoye&show_icons=true&hide=[%22issues%22]&theme=radical)
  
