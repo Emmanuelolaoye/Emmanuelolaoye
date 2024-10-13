@@ -17,6 +17,7 @@
 * Financial Technology
 * Machine Learning
 * Backend Web Development
+* Mobile Frontend Development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelolaoye&size_weight=0.01&count_weight=0.7&layout=compact&theme=radical)
 
@@ -39,30 +40,34 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Manny'
 		current_work = 'Writing code'
 		hobbies = [
-				'Drawing',
+				'Boxing',
 				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Sci-Fi Movies'
+				'Being up all Night chasing next leetcode problem'
 			]
 	
 	def getCity():
-		return Vancouver_Canada()
+		if location = 'UK'
+			return Colchester_Uk()
+
+		else:
+			return Clare_Ireland()
 	
 	def Ambitions():
 		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+		CreateTrainApp()
+		Complete100Problems(
+		# Assume any 10 awesome ambitions here at any time ;)
 	
  ```
  
 ## Current Works
  * Breaking into Back-end Development !!
- * I'm currently working on 🔭 building ** real time Train Booking Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * solving 100 leetcode peoblems
+ * I'm currently working on 🚂 building ** a real-time Train Booking Mobile App using Flutter and Django ** and working up on polishing my skills  in **Competitive Programming**.
+ * solving 100 leetcode problems
  
 ## Other Stuff
   - :octocat: [My Resume](https://rb.gy/0jpxc1)
