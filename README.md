@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-eolaoye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eolaoye)](https://www.linkedin.com/in/eolaoye) 
 [![Gmail Badge](https://img.shields.io/badge/-emmanuelolaoye44@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmanuelolaoye44@gmail.com)](mailto:emmanuelolaoye44@gmail.com) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Emmanuelolaoye" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Emmanuelolaoye" alt="Emmanuelolaoye" /> </p>
 
 <div style="text-align: right">Why do programmers prefer dark mode? Because light attracts bugs..... </div>
 
