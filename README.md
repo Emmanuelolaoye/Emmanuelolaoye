@@ -59,7 +59,7 @@
 	def Ambitions():
 		LearnJapanese()
 		CreateTrainApp()
-		Complete100Problems(
+		Complete100Problems()
 		# Assume any 10 awesome ambitions here at any time ;)
 	
  ```
